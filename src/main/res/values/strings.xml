@@ -1,11 +1,14 @@
 <resources>
-    <string name="app_name">USER INTERFACE</string>
-    <string name="selected_time">selected_time</string>
-    <string name="selected_day">selected_day</string>
-    <string name="date_pick">date_pick</string>
-    <string name="date_tv_text">date_pick_tv</string>
-    <string name="time_tv_text">time_tv</string>
-    <string name="toggle_tv_text">toggle_tv</string>
-    <string name="time_pick">time_pick</string>
-    <string name="checkbox_not_selected">checkbox_not_selected</string>
+    <string name="app_name">c ontact list</string>
+    <string name="toggle_tv_text">tv</string>
+    <string name="spinner_not_selected">spinner</string>
+    <string name="checkbox_not_selected">checkbox</string>
+    <string name="time_tv_text">time</string>
+    <string name="date_tv_text">date</string>
+    <string name="CheckBox">CHECK</string>
+    <string name="hint_name">name1</string>
+    <string name="hint_last_name">lastname</string>
+    <string name="phone_number">phone</string>
+    <string name="email">Email</string>
+    <string name="button_new_contact">new contact</string>
 </resources>
